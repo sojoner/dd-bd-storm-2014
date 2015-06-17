@@ -1,6 +1,8 @@
 dd-bd-storm-2014
 ================
 
+[![Join the chat at https://gitter.im/avantgarde-labs/dd-bd-storm-2014](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/avantgarde-labs/dd-bd-storm-2014?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A Clojure storm example cooked up from the following projects.
 
 [storm-starter](https://github.com/nathanmarz/storm-starter)
